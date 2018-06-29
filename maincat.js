@@ -122,6 +122,7 @@ window.onscroll = function () {
            pforgradofsquare14two.opacity="1";
            pforgradofsquare23two.opacity="1";
     }
+    
  document.ondragstart = xenforo;
  document.onselectstart = xenforo;
  document.oncontextmenu = xenforo;
