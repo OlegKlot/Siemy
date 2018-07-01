@@ -3315,6 +3315,37 @@ body{
     margin-left: 550px;
     opacity: .3;
 }
+.logoforbglogoline4{
+    position: absolute;
+    font-size: 23;
+    color: white;
+    margin-top: 226px;
+    margin-left: 576px;
+    opacity: .3;
+}
+.logoforbglogoline5{
+    position: absolute;
+    width: 35px;
+    height: 3px;
+    background-color: white;
+    margin-top: 237px;
+    margin-left: 553px;
+    opacity: .3;
+}
+.logoforbglogoline6{
+    position: absolute;
+    font-size: 18;
+    color: white;
+    margin-top: 209px;
+    opacity: .5;
+}
+.logoforbglogoline7{
+    position: absolute;
+    font-size: 18;
+    color: white;
+    margin-top: 225px;
+    opacity: .5;
+}
 .circleE{
     position: absolute;
     width: 50px;
@@ -3332,5 +3363,43 @@ body{
     background: #131313;
     margin-top: 155px;
     margin-left: 381px;
+    opacity: 1;
+}
+.circleE1{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border: 6px white solid;
+    border-radius: 50%;
+    margin-top: calc(155px - 124px);
+    margin-left: 350px;
+    opacity: .3;
+}
+.forcircleE1{
+    position: absolute;
+    width: 31px;
+    height: 31px;
+    background: #131313;
+    margin-top: calc(155px - 124px);
+    margin-left: 350px;
+    opacity: 1;
+}
+.circleE2{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border: 6px white solid;
+    border-radius: 50%;
+    margin-top: calc(155px - 124px);
+    margin-left: 226px;
+    opacity: .3;
+}
+.forcircleE2{
+    position: absolute;
+    width: 31px;
+    height: 31px;
+    background: #131313;
+    margin-top: calc(155px - 124px + 31px);
+    margin-left: 226px;
     opacity: 1;
 }
