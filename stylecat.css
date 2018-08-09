@@ -39,6 +39,28 @@ body{
     z-index: 120;
     opacity: 1;
 }
+.iconcatalog{
+    position: fixed;
+    width: 18px;
+    height: 15px;
+    border: white 1px solid;
+    border-radius: 6px;
+    margin-left: calc(47vw + 100px);
+    margin-top: 34px;
+    z-index: 110;
+    
+}
+.foriconcatalog{
+    position: fixed;
+    width: 8px;
+    height: 5px;
+    border: white 1px solid;
+    border-radius: 0px 0px 6px 6px;
+    margin-left: calc(47vw + 105px);
+    margin-top: 34px;
+    z-index: 110;
+    
+}
 .logoname22{
     position: fixed;
     color: #141414;
